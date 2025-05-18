@@ -1,0 +1,15 @@
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.AssemblyInfoInputs.cache
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.AssemblyInfo.cs
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.sourcelink.json
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\bin\Debug\net9.0\-ExHorasExtras.exe
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\bin\Debug\net9.0\-ExHorasExtras.deps.json
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\bin\Debug\net9.0\-ExHorasExtras.runtimeconfig.json
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\bin\Debug\net9.0\-ExHorasExtras.dll
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\bin\Debug\net9.0\-ExHorasExtras.pdb
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.dll
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\refint\-ExHorasExtras.dll
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.pdb
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\-ExHorasExtras.genruntimeconfig.cache
+C:\Users\Santana\Desktop\lista logica\-ExHorasExtras\obj\Debug\net9.0\ref\-ExHorasExtras.dll
